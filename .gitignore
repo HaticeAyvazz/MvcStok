@@ -1,0 +1,26 @@
+# Build sonuçları
+bin/
+obj/
+
+# Visual Studio dosyaları
+.vs/
+*.user
+*.suo
+
+# NuGet paketleri
+packages/
+
+# Publish dosyaları
+publish/
+publish_output/
+
+# Veri tabanı dosyaları
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Gereksiz sistem dosyaları
+*.log
+*.tmp
+*.bak
