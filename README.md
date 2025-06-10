@@ -22,3 +22,5 @@ Satış işlemleri için özel bir satış paneli tasarlanmış olup, stok yöne
 1-Visual Studio’da projeyi açın
 2-SQL Server’da veritabanı bağlantısını yapılandırın
 3-Uygulamayı başlatın, stok takibinizi kolayca yapmaya başlayın!🎉
+
+![Image](https://github.com/user-attachments/assets/75852b38-9af1-4cb0-8263-2de42a9cc11e)
